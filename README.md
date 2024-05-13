@@ -4,7 +4,7 @@
 - Мне 15 лет и я программист full stack 💻.
 - Уже 5 лет активно занимаюсь программированием ⏳.
 
-### Технологии, которые я знаю:
+### Технологии, которыми я владею:
 ![HTML](https://img.shields.io/badge/-HTML-ff5733?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-2965f1?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
