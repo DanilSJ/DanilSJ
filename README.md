@@ -1,16 +1,24 @@
-### Hi there 👋
+# Привет, я DanilSJ
 
-<!--
-**DanilSJ/DanilSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### О себе:
+- Мне 15 лет и я программист full stack.
+- Уже 5 лет занимаюсь программированием.
 
-Here are some ideas to get you started:
+### Технологии, которые я знаю:
+![HTML](https://img.shields.io/badge/-HTML-ff5733?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-2965f1?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=c%2B%2B&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jquery&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/-YAML-000000?style=flat-square&logo=yaml&logoColor=white)
+![XML](https://img.shields.io/badge/-XML-6b778d?style=flat-square&logo=xml&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-092e20?style=flat-square&logo=django&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### График использования языков программирования:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilSJ&layout=compact)](https://github.com/DanilSJ/github-readme-stats)
+
