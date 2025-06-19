@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&lines=Full-stack+разработчик;Python%2C+FastAPI%2C+Django;Фрилансер+%2F+Автоматизация+%2F+API;Твой+проекты+%E2%86%92+мой+код" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&lines=Full-stack+разработчик;" alt="Typing SVG" />
 </p>
 
 <p align="center">
