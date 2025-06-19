@@ -1,9 +1,11 @@
 <h1 align="center">
-  🔥 Привет! Я Данил Чагарной 👋
+  🔥 Привет! Я Данил Чагарной 👋  
+  <br/>
+  Full-stack Developer from Russia 🇷🇺
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&lines=Full-stack+разработчик;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&lines=Full-stack+developer;Open+to+work;Let's+build+something+great+together!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,20 +14,20 @@
 
 ---
 
-### 🧑‍💻 О себе:
-- Мне 16 лет, я full stack разработчик 💻.
-- Программирую с 9 лет — более 7 лет опыта.
-- Разрабатываю сайты, API, парсеры, телеграм-ботов, автоматизации и внутренние сервисы.
-- Работаю как фрилансер — реализую проекты под ключ.  
-  🔗 [Профиль на freelance.ru](https://freelance.ru/danilchagarno)  
-  📬 [Связаться в Telegram](https://t.me/DanilChagarnoy)  
-  ✉️ [Написать мне на почту](mailto:DanilChagarnoy@yandex.ru)
+## ✨ About Me
+
+- 👋 I'm **Danil Chagarnoy**, a 16-year-old **Full-stack developer** with 7+ years of experience.
+- 🔧 I build **websites**, **APIs**, **Telegram bots**, **scrapers**, and **automation tools**.
+- 🌍 Available for freelance — ready to bring your idea to life.  
+  🔗 [Freelance profile (freelance.ru)](https://freelance.ru/danilchagarno)  
+  💬 [Message me on Telegram](https://t.me/DanilChagarnoy)  
+  📩 [Email me](mailto:DanilChagarnoy@yandex.ru)
 
 ---
 
-### 🚀 Стек технологий:
+## 🚀 Tech Stack
 
-#### 🖥️ Frontend:
+### 🖥️ Frontend
 ![HTML](https://img.shields.io/badge/-HTML-ff5733?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-2965f1?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
@@ -33,7 +35,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38b2ac?style=flat-square&logo=tailwind-css&logoColor=white)
 
-#### 🧠 Backend:
+### 🧠 Backend
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=django&logoColor=white)
@@ -41,7 +43,7 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
-#### ⚙️ DevOps & Tools:
+### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-d82c20?style=flat-square&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -50,18 +52,18 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![NGROK](https://img.shields.io/badge/-Ngrok-1f1f1f?style=flat-square&logo=ngrok&logoColor=white)
 
-#### 🧰 Базы данных:
+### 🧰 Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-#### 🤖 Скрейпинг / Парсинг / Автоматизация:
+### 🤖 Web Scraping / Automation
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-000000?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ---
 
-### 🧠 Языки программирования:
+## 🧠 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white)
@@ -69,14 +71,14 @@
 
 ---
 
-### 📊 Статистика:
+## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilSJ&layout=compact&theme=default)](https://github.com/DanilSJ/github-readme-stats)
 
 ---
 
-### 💬 Цитата:
-> **"Лучший способ предсказать будущее — это изобрести его."**  
-> — Алан Кей
+## 💬 Favorite Quote
+> **“The best way to predict the future is to invent it.”**  
+> — Alan Kay
 
 ---
 
@@ -86,5 +88,8 @@
   </a>
   <a href="mailto:DanilChagarnoy@yandex.ru" target="_blank">
     <img src="https://img.shields.io/badge/Email-DanilChagarnoy@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://freelance.ru/danilchagarno" target="_blank">
+    <img src="https://img.shields.io/badge/Freelance.ru-My%20Profile-blue?style=for-the-badge&logo=freelancer&logoColor=white" />
   </a>
 </p>
