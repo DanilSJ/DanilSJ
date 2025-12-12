@@ -89,7 +89,7 @@
   <a href="mailto:DanilChagarnoy@yandex.ru" target="_blank">
     <img src="https://img.shields.io/badge/Email-DanilChagarnoy@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://freelance.ru/danilchagarno" target="_blank">
+  <a href="https://freelance.ru/chagarnoy" target="_blank">
     <img src="https://img.shields.io/badge/Freelance.ru-My%20Profile-blue?style=for-the-badge&logo=freelancer&logoColor=white" />
   </a>
 </p>
