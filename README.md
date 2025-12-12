@@ -1,7 +1,7 @@
 <h1 align="center">
-  🔥 Привет! Я Данил Чагарной 👋  
+  🔥 Hi! I'm Danil Chagarnoy 👋  
   <br/>
-  Full-stack Developer from Russia 🇷🇺
+  Full-stack Developer
 </h1>
 
 <p align="center">
