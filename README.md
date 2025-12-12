@@ -16,7 +16,7 @@
 
 ## ✨ About Me
 
-- 👋 I'm **Danil Chagarnoy**, a 16-year-old **Full-stack developer** with 7+ years of experience.
+- 👋 I'm **Danil Chagarnoy**, a 17-year-old **Full-stack developer** with 7+ years of experience.
 - 🔧 I build **websites**, **APIs**, **Telegram bots**, **scrapers**, and **automation tools**.
 - 🌍 Available for freelance — ready to bring your idea to life.  
   🔗 [Freelance profile (freelance.ru)](https://freelance.ru/danilchagarno)  
